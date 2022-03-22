@@ -1,4 +1,4 @@
-.container.testimonials_container {
+/* .container.testimonials_container {
     width: 40%;
     padding-bottom: 4rem;
 }
@@ -31,14 +31,14 @@
 
 
 /* ==================== Media Quaries (Medium Devices) ====================== */
-@media screen and (max-width: 1024px) {
+/* @media screen and (max-width: 1024px) {
     .container.testimonials_container {
         width: 60%;
     }
-}
+} */
 
 /* ==================== Media Quaries (Small Devices) ====================== */
-@media screen and (max-width: 600px) {
+/* @media screen and (max-width: 600px) {
     .container.testimonials_container {
         width: var(--container-width-sm);
     }
@@ -46,4 +46,4 @@
     .client_review {
         width: var(--container-width-sm);
     }
-}
+}  */
